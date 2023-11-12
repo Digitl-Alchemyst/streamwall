@@ -71,7 +71,7 @@ function parseArgs() {
     })
     .option('window.active-color', {
       describe: 'Active (highlight) color of wall',
-      default: '#fff',
+      default: '#D70606',
     })
     .group(['data.interval', 'data.json-url', 'data.toml-file'], 'Datasources')
     .option('data.interval', {

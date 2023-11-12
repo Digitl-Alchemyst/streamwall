@@ -1,0 +1,35 @@
+[[streams]]
+city   = "Gaza City"
+label   = "Gaza City Skyline"
+link  = "https://www.youtube.com/watch?v=luXUzWrQOyo&ab_channel=AFP"
+kind  = "video"
+
+[[streams]]
+city   = "Report"
+label   = "Report - Al Jazeera"
+link  = "https://www.youtube.com/watch?v=gCNeDWCI0vo"
+kind  = "video"
+
+[[streams]]
+city   = "Report"
+label  = "Report TRT World"
+link   = "https://www.youtube.com/watch?v=5VF4aor94gw"
+kind  = "video"
+
+[[streams]]
+city   = "Report"
+label  = "Report - Sky News"
+link   = "https://www.youtube.com/watch?v=9Auq9mYxFEE"
+kind  = "video"
+
+[[streams]]
+city   = "Report"
+label  = "Report - France 24"
+link   = "https://www.youtube.com/watch?v=tkDUSYHoKxE"
+kind  = "video"
+
+[[streams]]
+city   = "Report"
+label  = "Report - NDTV"
+link   = "https://www.youtube.com/watch?v=4ppJqfdt0SY"
+kind  = "video"
