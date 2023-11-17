@@ -5,7 +5,7 @@
 🔴 Live Gaza | Israel Ground Invasion | HD Multicam 24/7 Conflict Zone ⚠ Camera Feed | Nasser Hospital 🏥
 
 🔴 Live Feeds from Gaza | Israel Ground Invasion | HD Multicam 24/7 Conflict Zone ⚠ Camera Feed 
-🔴 Live Feeds from Gaza | Israel IDF Ground Invasion | HD Multicam 24/7 Conflict Zone ⚠ Camera Feed 
+🔴 Live from Gaza | Israel IDF Ground Invasion | HD Multicam 24/7 Conflict Zone ⚠ Camera Feed 
 
 
 #Gaza #Palestine #Israel #IDF #Hamas #GazaStrip #WestBank #Live #News #MiddleEast #War #Protest #Live #Coverage #Breaking #News #BreakingNews #GazaUnderSiege
@@ -18,11 +18,16 @@ Get the latest updates on Israel’s war against Hamas in Gaza in our live break
 In the ongoing Israel-Hamas conflict, approximately 1,100 people have fled Gaza through the Rafah crossing as part of an agreement involving the United States, Egypt, Israel, and Qatar. Gaza has lost telecom contact, and Israel's military has surrounded Gaza City. Families of Israeli hostages fear their loved ones will be forgotten, while global protest marches demand an immediate halt to the bombing. The conflict's devastating toll is reflected in staggering casualty numbers, and a U.N. official reveals that the average Palestinian in Gaza is surviving on just two pieces of bread per day.
 
 Latest updates and developments related to the ongoing war in Gaza can be found at our special events page
-Current
+Current Nov 10th - 13th
+https://www.untelevised.media/live-event/mass-exodus-from-north-gaza-as-idf-encircles-hospitals-gaza-israel-war-live-updates/
+Nov 5th - Nov 9th
+
 - 📖 https://www.untelevised.media/live-event/israel-hamas-conflict-escalates-amidst-growing-concerns-for-gaza-crisis/
 Oct 31st -  Nov 5th
+
 - 📖 https://www.untelevised.media/live-event/gaza-blackout-gaza-israel-war/
 Oct 7th - Oct 30th
+
 - 📖 https://www.untelevised.media/live-event/gaza-under-siege-israel-hamas-war
 
 Visit our website for the latest breaking news & stories
@@ -50,7 +55,12 @@ No racism or bigotry of any kind
 No personal attacks or harassment
 No spamming
 
-#UnTelevised Media is a news reporting platform covered under Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research.
+Copyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of FAIR USE.
+
+I Do not own any of the camera on screen as always shoutout to the sources.
+Credit to the rightful owner of the CCTV live Feeds
+
+We are operating under Fair Use laws which permit a party to use copyrighted works without the copyright owner's permission for purposes such as criticism, comment, news reporting, teaching, research and more.
 
 #Lebanon #Hamas #Hezbollah #Ramallah #Hebron #Ashkelon #Ashdod #Jordan #Westbank #newsfeed #Palestinian #IsraelHamasWar #GazaWar #CeaseFireNow #GazaWar 
 
@@ -99,3 +109,45 @@ https://www.daystar.com/israel/live/
 
  https://www.webcamgreece.com/webcam-bethlehem-palestine.html (video) x
 
+Sredot
+ 
+City (optional)
+ 
+State (optional)
+ 
+Country (optional)
+ https://www.youtube.com/watch?v=_fgUNHUhfMA&ab_channel=TheTimesandTheSundayTimes (video) x
+Nasser Hospital
+ 
+City (optional)
+ 
+State (optional)
+ 
+Country (optional)
+ https://www.youtube.com/watch?v=ul53zRtp4UE&ab_channel=%D9%82%D9%86%D8%A7%D8%A9%D8%A7%D9%84%D9%83%D9%88%D9%81%D9%8A%D8%A9%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-AlKofiyatvLive (video) x
+
+
+Eilat
+ http://80.178.208.109:81/view/viewer_index.shtml
+ Telaviv
+ http://62.219.135.70:1000/view/index.shtml
+ 	Haifa
+
+
+	[[streams]]
+city   = "Jerusalem"
+label  = "Western Wall Main Plaza"
+link   = "https://www.youtube.com/watch?v=cG8P0gxmFHg"
+kind  = "video"
+[[streams]]
+
+city   = "Jerusalm"
+label  = "Western Prayer Wall"
+link   = "https://www.youtube.com/watch?v=tciJrb5y-fc"
+kind  = "video"
+
+[[streams]]
+city   = "Jerusalem"
+label  = "Western Wall Tunnels"
+link   = "https://www.youtube.com/watch?v=86JqKRriP-c"
+kind  = "video"

@@ -34,7 +34,7 @@ password = "local-dev"
 interval = 30
 
 # You can add URLs to fetch here:
-json-url = ["https://untelevised.media/live-feed/lives.json"]
+#json-url = ["https://untelevised.media/live-feed/lives.json"]
 
 # You can also specify .toml files on disk. Streamwall will reload the data whenever the file changes.
 # See example.streams.toml for a sample.

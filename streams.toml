@@ -1,7 +1,31 @@
 [[streams]]
-city   = "Gaza City"
-label   = "Gaza City Skyline"
-link  = "https://www.youtube.com/watch?v=luXUzWrQOyo&ab_channel=AFP"
+city   = "Sredot / Ashkelon"
+label   = "Sredot / Ashkelon - Rawcasts"
+link  = "https://www.youtube.com/watch?v=Drucm6lGLzQ&ab_channel=rawcasts"
+kind  = "video"
+
+[[streams]]
+city   = "Sredot"
+label   = "Sredot 1"
+link  = "https://www.youtube.com/watch?v=3kAmf3_A0jc&ab_channel=Reuters"
+kind  = "video"
+
+[[streams]]
+city   = "Sredot"
+label   = "Sredot 2"
+link  = "https://www.youtube.com/watch?v=k7yvgD9oiXs&ab_channel=MARCA"
+kind  = "video"
+
+[[streams]]
+city   = "Hula Nature Reserve"
+label   = "Hula Nature Reserve"
+link  = "https://www.youtube.com/watch?v=05CF-R1-j9c"
+kind  = "video"
+
+[[streams]]
+city   = "Safed"
+label   = "Safed"
+link  = "https://www.weather2day.co.il/zefat-webcam"
 kind  = "video"
 
 [[streams]]
@@ -32,4 +56,10 @@ kind  = "video"
 city   = "Report"
 label  = "Report - NDTV"
 link   = "https://www.youtube.com/watch?v=4ppJqfdt0SY"
+kind  = "video"
+
+[[streams]]
+city   = "X"
+label  = "X"
+link   = ""
 kind  = "video"
