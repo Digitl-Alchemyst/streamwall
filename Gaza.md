@@ -1,16 +1,15 @@
-🔴 Live HD Coverage: Cease Fire NOW Protest ⚠️ | Isreal Gaza COnflict Zone | Real-time Coverage 
+🔴 Live HD Coverage: Cease Fire NOW Protest ⚠️ | Isreal Gaza COnflict Zone | Real-time Coverage
 🔴 Gaza Live HD Multicam Coverage: | Israel Ground Invasion Conflict Zone ⚠ | Rafah Crossing
 🔴 Gaza Live HD Multicam Coverage: | Israel Ground Invasion Conflict Zone ⚠ | Nasser Hospital 🏥
 🔴 Gaza Live HD Multicam Coverage: | Israel Ground Invasion Conflict Zone ⚠ | Gaza Blackout
 🔴 Live Gaza | Israel Ground Invasion | HD Multicam 24/7 Conflict Zone ⚠ Camera Feed | Nasser Hospital 🏥
 
-🔴 Live Feeds from Gaza | Israel Ground Invasion | HD Multicam 24/7 Conflict Zone ⚠ Camera Feed 
-🔴 Live from Gaza | Israel IDF Ground Invasion | HD Multicam 24/7 Conflict Zone ⚠ Camera Feed 
-
+🔴 Live Feeds from Gaza | Israel Ground Invasion | HD Multicam 24/7 Conflict Zone ⚠ Camera Feed
+🔴 Live from Gaza | Israel IDF Ground Invasion | HD Multicam 24/7 Conflict Zone ⚠ Camera Feed
 
 #Gaza #Palestine #Israel #IDF #Hamas #GazaStrip #WestBank #Live #News #MiddleEast #War #Protest #Live #Coverage #Breaking #News #BreakingNews #GazaUnderSiege
 
-Live HD camera feed from Gaza / Ramallah / Hebron / Ashdod / Asheklon / Tel Aviv / Jerusalem 
+Live HD camera feed from Gaza / Ramallah / Hebron / Ashdod / Asheklon / Tel Aviv / Jerusalem
 Live protest coverage from around the world related to the conflict
 
 Get the latest updates on Israel’s war against Hamas in Gaza in our live breaking news coverage.
@@ -23,17 +22,19 @@ https://www.untelevised.media/live-event/mass-exodus-from-north-gaza-as-idf-enci
 Nov 5th - Nov 9th
 
 - 📖 https://www.untelevised.media/live-event/israel-hamas-conflict-escalates-amidst-growing-concerns-for-gaza-crisis/
-Oct 31st -  Nov 5th
+  Oct 31st - Nov 5th
 
 - 📖 https://www.untelevised.media/live-event/gaza-blackout-gaza-israel-war/
-Oct 7th - Oct 30th
+  Oct 7th - Oct 30th
 
 - 📖 https://www.untelevised.media/live-event/gaza-under-siege-israel-hamas-war
 
 Visit our website for the latest breaking news & stories
+
 - 🌐 https://untelevised.media
 
 Follow us on social media for more updates:
+
 - 📲 https://www.facebook.com/UnTelevisedLive
 - ▶️ https://www.youtube.com/@UnTelevised
 - 🐤 https://twitter.com/UnTelevisedLive
@@ -62,8 +63,7 @@ Credit to the rightful owner of the CCTV live Feeds
 
 We are operating under Fair Use laws which permit a party to use copyrighted works without the copyright owner's permission for purposes such as criticism, comment, news reporting, teaching, research and more.
 
-#Lebanon #Hamas #Hezbollah #Ramallah #Hebron #Ashkelon #Ashdod #Jordan #Westbank #newsfeed #Palestinian #IsraelHamasWar #GazaWar #CeaseFireNow #GazaWar 
-
+#Lebanon #Hamas #Hezbollah #Ramallah #Hebron #Ashkelon #Ashdod #Jordan #Westbank #newsfeed #Palestinian #IsraelHamasWar #GazaWar #CeaseFireNow #GazaWar
 
 Join the Live Coverage @ UnTelevised Media
 8 Live Views + Up to date New Reports All Live 🔴 No Loops
@@ -78,8 +78,7 @@ https://www.youtube.com/@marca
 https://www.youtube.com/@thesun
 https://www.youtube.com/@CGTNEurope
 
-
-Western Wall 
+Western Wall
 https://aish.com/western-wall-page/
 https://www.earthcam.com/world/israel/jerusalem/?cam=jerusalem
 
@@ -88,66 +87,58 @@ https://www.webcamgreece.com/webcam-bethlehem-palestine.html
 https://www.webcamgreece.com/webcam-jerusalem-old-city-israel-palestine.html
 https://www.webcamgreece.com/webcam-tel-aviv-israel-construction.html
 
-Jordan River Baptism Site  | Yardenit | Jardenit
+Jordan River Baptism Site | Yardenit | Jardenit
 https://www.youtube.com/@jordanriverbaptismyardenit2223
 
-
-
 https://www.webcamtaxi.com/en/israel.html
-
 
 Times Square / Las Vegas
 https://www.youtube.com/@AESignage
 
-
 https://www.daystar.com/israel/live/
 
+https://www.webcamtaxi.com/en/jordan/amman-governorate/amman-city-cam.html (video) x
 
-
-
- https://www.webcamtaxi.com/en/jordan/amman-governorate/amman-city-cam.html (video) x
-
- https://www.webcamgreece.com/webcam-bethlehem-palestine.html (video) x
+https://www.webcamgreece.com/webcam-bethlehem-palestine.html (video) x
 
 Sredot
- 
-City (optional)
- 
-State (optional)
- 
-Country (optional)
- https://www.youtube.com/watch?v=_fgUNHUhfMA&ab_channel=TheTimesandTheSundayTimes (video) x
-Nasser Hospital
- 
-City (optional)
- 
-State (optional)
- 
-Country (optional)
- https://www.youtube.com/watch?v=ul53zRtp4UE&ab_channel=%D9%82%D9%86%D8%A7%D8%A9%D8%A7%D9%84%D9%83%D9%88%D9%81%D9%8A%D8%A9%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-AlKofiyatvLive (video) x
 
+City (optional)
+
+State (optional)
+
+Country (optional)
+https://www.youtube.com/watch?v=_fgUNHUhfMA&ab_channel=TheTimesandTheSundayTimes (video) x
+Nasser Hospital
+
+City (optional)
+
+State (optional)
+
+Country (optional)
+https://www.youtube.com/watch?v=ul53zRtp4UE&ab_channel=%D9%82%D9%86%D8%A7%D8%A9%D8%A7%D9%84%D9%83%D9%88%D9%81%D9%8A%D8%A9%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-AlKofiyatvLive (video) x
 
 Eilat
- http://80.178.208.109:81/view/viewer_index.shtml
- Telaviv
- http://62.219.135.70:1000/view/index.shtml
- 	Haifa
+http://80.178.208.109:81/view/viewer_index.shtml
+Telaviv
+http://62.219.135.70:1000/view/index.shtml
+Haifa
 
+    [[streams]]
 
-	[[streams]]
-city   = "Jerusalem"
-label  = "Western Wall Main Plaza"
-link   = "https://www.youtube.com/watch?v=cG8P0gxmFHg"
-kind  = "video"
+city = "Jerusalem"
+label = "Western Wall Main Plaza"
+link = "https://www.youtube.com/watch?v=cG8P0gxmFHg"
+kind = "video"
 [[streams]]
 
-city   = "Jerusalm"
-label  = "Western Prayer Wall"
-link   = "https://www.youtube.com/watch?v=tciJrb5y-fc"
-kind  = "video"
+city = "Jerusalm"
+label = "Western Prayer Wall"
+link = "https://www.youtube.com/watch?v=tciJrb5y-fc"
+kind = "video"
 
 [[streams]]
-city   = "Jerusalem"
-label  = "Western Wall Tunnels"
-link   = "https://www.youtube.com/watch?v=86JqKRriP-c"
-kind  = "video"
+city = "Jerusalem"
+label = "Western Wall Tunnels"
+link = "https://www.youtube.com/watch?v=86JqKRriP-c"
+kind = "video"
