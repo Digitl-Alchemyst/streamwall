@@ -7,13 +7,13 @@ kind  = "video"
 [[streams]]
 city   = "Sredot"
 label   = "Sredot 1"
-link  = "https://www.youtube.com/watch?v=3kAmf3_A0jc&ab_channel=Reuters"
+link  = "https://www.youtube.com/watch?v=s2_k1Etiouo&ab_channel=Reuters"
 kind  = "video"
 
 [[streams]]
 city   = "Sredot"
 label   = "Sredot 2"
-link  = "https://www.youtube.com/watch?v=k7yvgD9oiXs&ab_channel=MARCA"
+link  = "https://www.youtube.com/watch?v=F5U3q6WchNs&ab_channel=MARCA"
 kind  = "video"
 
 [[streams]]

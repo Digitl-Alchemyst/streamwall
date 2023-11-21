@@ -17,17 +17,7 @@ Get the latest updates on Israel’s war against Hamas in Gaza in our live break
 In the ongoing Israel-Hamas conflict, approximately 1,100 people have fled Gaza through the Rafah crossing as part of an agreement involving the United States, Egypt, Israel, and Qatar. Gaza has lost telecom contact, and Israel's military has surrounded Gaza City. Families of Israeli hostages fear their loved ones will be forgotten, while global protest marches demand an immediate halt to the bombing. The conflict's devastating toll is reflected in staggering casualty numbers, and a U.N. official reveals that the average Palestinian in Gaza is surviving on just two pieces of bread per day.
 
 Latest updates and developments related to the ongoing war in Gaza can be found at our special events page
-Current Nov 10th - 13th
-https://www.untelevised.media/live-event/mass-exodus-from-north-gaza-as-idf-encircles-hospitals-gaza-israel-war-live-updates/
-Nov 5th - Nov 9th
 
-- 📖 https://www.untelevised.media/live-event/israel-hamas-conflict-escalates-amidst-growing-concerns-for-gaza-crisis/
-  Oct 31st - Nov 5th
-
-- 📖 https://www.untelevised.media/live-event/gaza-blackout-gaza-israel-war/
-  Oct 7th - Oct 30th
-
-- 📖 https://www.untelevised.media/live-event/gaza-under-siege-israel-hamas-war
 
 Visit our website for the latest breaking news & stories
 
